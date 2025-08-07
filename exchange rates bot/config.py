@@ -1,0 +1,3 @@
+import telebot
+
+TOKEN = "8311820652:AAEOOKLGqpCDJiJ0SPZDf0KyX2dBEAnrPH4"
